@@ -1,0 +1,19 @@
+.banner{
+    &-row{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #fff;
+        border: 1px solid #fff;
+    }
+    &-banner{
+        &__images{
+            width: 664px;
+            height: 373px;
+            img{
+                width: 100%;
+                height: 100%;
+            }
+        }
+    }
+}

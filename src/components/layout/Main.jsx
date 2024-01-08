@@ -2,10 +2,10 @@ import React from 'react'
 import Banner from './Banner'
 
 function Main() {
-  return (
-    <>
+return (
+    <div className="main">
       <Banner/>
-    </>
+    </div>
 )
 }
 
