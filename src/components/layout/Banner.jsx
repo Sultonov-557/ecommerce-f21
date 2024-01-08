@@ -1,5 +1,5 @@
 import React from 'react'
-import Banner from '../../images/banner.png'
+import Banner from '../../image/banner.png'
 function Banner() {
   return (
     <section className='banner'>
